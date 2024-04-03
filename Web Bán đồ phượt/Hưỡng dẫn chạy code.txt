@@ -1,0 +1,13 @@
+1. import các collection ở forder json vào mongoDB compass- localhost:27017/shopping.
+
+2. Xóa  forder node_modules
+
+3. Sử dụng npm install để cài đặt lại các gói node_modules này.
+4. Chạy lệnh npm start.
+5. Truy cập với địa chỉ: localhost:3000/
+
+Tài khoản admin cho các bạn test :
+
+email:admin@gmail.com
+
+password : 123
